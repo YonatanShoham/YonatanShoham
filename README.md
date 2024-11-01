@@ -47,8 +47,10 @@ Data Analyst with a background in Chemical Engineering, bringing a unique blend 
 - Chemical Engineering
 - Data Visualization
 
-## 📫 How to Reach Me
-[Insert your preferred contact methods here]
+## 📫 Connect With Me
+- 📧 Email: sho.yonatan@gmail.com
+- 💼 LinkedIn: [Yonatan Shoham](https://www.linkedin.com/in/yonatan-shoham)
+- 🐱 GitHub: You're already here!
 
 ---
-*Feel free to explore my repositories and reach out for collaborations!*
+*Feel free to explore my repositories and reach out for collaborations! Always open to interesting data projects and professional connections.*
