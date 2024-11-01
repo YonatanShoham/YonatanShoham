@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hello, I'm Yonatan Shoham
 
-<!--
-**YonatanShoham/YonatanShoham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Data Analyst with a background in Chemical Engineering, bringing a unique blend of analytical skills and engineering principles to data science. I specialize in transforming complex data into actionable insights through visualization and analysis.
 
-Here are some ideas to get you started:
+## 💼 Professional Background
+- Data Analyst
+- Former Chemical Engineer
+- Passionate about data visualization and project development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Featured Projects
+
+### SQL Projects
+- Repository of various SQL-based projects
+- Focus on data manipulation and analysis
+- Public repository showcasing database management skills
+
+### PowerBI Visualization
+- PowerBI visualization specifically developed for SQL project 3
+- Demonstrates ability to transform raw data into meaningful visual insights
+- Expertise in business intelligence tools
+
+### YouTube Dataset Analysis
+- Comprehensive analysis of YouTube data using Python
+- Utilized matplotlib and pyplot for data visualization
+- Data extracted and processed from Excel files
+- In-depth statistical analysis and trend identification
+
+### Infectious Diseases Excel Project
+- Created sophisticated visualization tools for disease data
+- Features two distinct graph types:
+  - Clustered stacked column graph
+  - Standard stacked column graph
+- Demonstrates advanced Excel visualization capabilities
+
+### MATLAB Engineering Project
+- Application of engineering principles in MATLAB
+- Combines technical expertise with programming skills
+
+## 🔧 Skills
+- Data Analysis
+- SQL
+- PowerBI
+- Python (matplotlib, pyplot)
+- Excel (Advanced)
+- MATLAB
+- Chemical Engineering
+- Data Visualization
+
+## 📫 How to Reach Me
+[Insert your preferred contact methods here]
+
+---
+*Feel free to explore my repositories and reach out for collaborations!*
